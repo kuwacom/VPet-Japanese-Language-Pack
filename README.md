@@ -22,4 +22,6 @@ https://github.com/LorisYounger/VPet
 変更が完了したら一度VPetを終了し再起動してください。<br>
 ![image](https://github.com/kuwacom/VPet-Japanese-Language-Pack/assets/83022348/28576209-a959-4413-95f6-70b57aa18b57)<br>
 ## 最後に
-日本語おかしいとこあったり表示が切れてるところとかあったらジャンジャン issues やら pullrequest やら出してください！！
+日本語おかしいとこあったり表示が切れてるところとかあったらジャンジャン issues やら pullrequest やら出してください！！<br>
+それではよい VPet 生活を！！<br>
+![image](https://github.com/kuwacom/VPet-Japanese-Language-Pack/assets/83022348/550af0e1-cbc9-4597-b86e-6fbef8d1000e)
