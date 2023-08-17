@@ -1,7 +1,10 @@
 # What Is This
-VPet-Japanese-Language-Pack
-名前にある通りVPetの日本語翻訳パック
-現在翻訳中でかなりがばがばです(翻訳機やらGPTに突っ込んだだけ 修正やらは相当かかりそう)
+VPet-Japanese-Language-Pack<br>
+名前にある通り[VPet](https://github.com/LorisYounger/VPet)の日本語翻訳パック<br>
+現在翻訳中でかなりがばがばです(翻訳機やらGPTに突っ込んだだけ 修正やらは相当かかりそう)<br>
+<br>
+VPetはこちら 👇<br>
+https://github.com/LorisYounger/VPet
 
 # How To Use
 ## 言語パックをコピー
