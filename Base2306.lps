@@ -282,189 +282,193 @@ DLL引用名单#DLL リファレンスリスト:|
 上侧#上:|
 下侧#下:|
 
-未翻译文档#Untranslated Documents:|
-导出未翻译文档#Export untranslated documents:|
-反馈与错误提交#Feedback and bug submission:|
-类型:#Type::|
-需要反馈的类型#The type of feedback required:|
-游戏内报错#An in-game error is reported:|
-逻辑计算错误#Logical calculation error:|
-数值设计不合理#Value design not reasonable:|
-玩法与功能建议#Gameplay and feature suggestions:|
-游玩心得分享#Play experience sharing:|
-描述:#Description::|
-对于反馈的详细描述#Detailed description of the feedback:|
-详细描述\reg:如何触发这个报错#Detailed Description\reg:How to trigger this error:|
-内容:#Content::|
-提交:#Submit::|
-上传游戏存档#Upload Game Saved:|
-联系:#Contact::|
-提供联系方式以获得反馈,可不填#Provide contact information for feedback, or not:|
-提供联系方式以获得反馈,可不填\reg:QQ430081239#Provide contact information for feedback, or not\reg:service@exlb.net:|
-提交#Submit:|
-玩家取消上传存档#Player cancels uploading saved:|
-秒#Sec:|
-停止#Stop:|
-当前已#Currently:|
-您的桌宠等级不足{0}/{2}\n无法进行{1}#Your pet don't have enough level {0}/{2}\nUnable to {1}:|
-{0}取消#{0} Cancel:|
-搜索商品#Search for products:|
-购买后不自动关闭窗口#don't close after buy:|
-凉茶#Cold Tea:|
-购买#Buy:|
-经验值#EXP:|
-健康#Health:|
-怕上火，喝广东咖啡！#Afraid excessive internal heat? drink Guangdong coffee!:|
-收藏食物#Collect Food:|
-物品详情#Item Details:|
-椰汁#Coconut Milk:|
-白白胖胖，曲线圆润，要喝不加香油的椰O牌椰汁#White and chubby, rounded curve, one should drink Vita caca coconut juice:|
-果汁#Fruit Juice:|
-那个那个那个那个果汁分你一半#Thatthatthat juice, divide you in half:|
-可乐#Cola:|
-蓝色那个在日用品区谢谢#The blue one is in the daily products. Thank you:|
-盐汽水#Salt Soda Water:|
-我一口盐汽水！#I'll take a sip of salt soda!:|
-维他奶#Vitasoy:|
-点止汽水咁简单#Not just soda:|
-雷碧#Faery:|
-透心扬，心飞凉#Penetrating soaring,Coolness spirit.:|
-ab钙奶#AD Calcium Milk:|
-健康美味，经济实惠#Healthy, delicious, and affordable:|
-速效救心丸#Nitroglycerin Tablets:|
-急急急，等下有得你急的。#Urgent, there will be something urgent for you later.:|
-阿司匹林#Aspirin:|
-发烧去医院经常见的药，从小到大都不懂为什么长得和螺丝头一样#Medicines that are commonly seen in hospitals for fever, and I have never understood why they look like screw heads since childhood:|
-香煎牛仔骨#Pan Fried Short Ribs:|
-好感度#Likeablilty:|
-开瓶红酒吧，上流#Open a bottle of wine, that call upper class:|
-布洛芬缓释胶囊#Ibuprofen Sustained Release Capsules:|
-在以前的大瘟疫时代，曾经作为货币使用，最高的时候价值连城#In the previous era of the Great Plague, it was once used as currency and at its highest value, it was priceless:|
-大力丸#Mestinon:|
-等我硬起来有你好受的！#You'll feel good when I get tough!:|
-西冷牛排#Sirloin:|
-开瓶拉菲吧，上流#Open a bottle of Lafite, that call upper class:|
-煎西冷牛排#Fried Sirloin:|
-开瓶可乐吧，上流#Open a bottle of cola, that call upper class:|
-脑黑金#Brain Rhodita:|
-过年过节不收礼！__________！(3分)#1.What gifts should you give during the festival and the New Year?:|
-红烧牛肉#Braised Beef:|
-不是4块钱的，请放心#Not 4 buck, please rest assured:|
-辣子鸡#Spicy Chicken:|
-当红辣子鸡哟#Deep fried chicken:|
-酸菜鱼#Sauerkraut-fish:|
-人人皆是酸菜鱼#Everyone is Sauerkraut-fish:|
+未翻译文档#未翻訳文書:|
+导出未翻译文档#未翻訳文書のエクスポート:|
+
+反馈与错误提交#フィードバックとバグの報告:|
+类型:#タイプ::|
+需要反馈的类型#必要なフィードバックのタイプ:|
+游戏内报错#ゲーム内エラーの報告:|
+逻辑计算错误#論理計算エラー:|
+数值设计不合理#値の設計が不合理:|
+玩法与功能建议#ゲームプレイと機能の提案:|
+游玩心得分享#プレイ体験の共有:|
+描述:#説明::|
+对于反馈的详细描述#フィードバックの詳細な説明:|
+详细描述\reg:如何触发这个报错#詳細な説明\reg:このエラーをトリガーする方法:|
+内容:#コンテンツ::|
+提交:#送信::|
+上传游戏存档#ゲームセーブのアップロード:|
+联系:#連絡::|
+提供联系方式以获得反馈,可不填#フィードバックのための連絡先情報を提供する、または提供しない:|
+提供联系方式以获得反馈,可不填\reg:QQ430081239#フィードバックのための連絡先情報を提供する、または提供しない\reg:service@exlb.net:|
+提交#送信:|
+玩家取消上传存档#プレイヤーがセーブのアップロードをキャンセル:|
+秒#秒:|
+停止#停止:|
+当前已#現在の:|
+您的桌宠等级不足{0}/{2}\n无法进行{1}#あなたのペットはレベル不足{0}/{2}\n{1}できません:|
+{0}取消#{0} キャンセル:|
+搜索商品#商品の検索:|
+购买后不自动关闭窗口#購入後にウィンドウを自動的に閉じない:|
+凉茶#冷たいお茶:|
+购买#購入:|
+经验值#経験値:|
+健康#健康:|
+怕上火，喝广东咖啡！#火照りを恐れていますか？広東コーヒーを飲んでください！:|
+收藏食物#食べ物を収集:|
+物品详情#アイテムの詳細:|
+椰汁#ココナッツミルク:|
+白白胖胖，曲线圆润，要喝不加香油的椰O牌椰汁#ふくよかで丸い曲線、香油不使用のココモラ牌ココナッツミルクを飲む必要があります:|
+果汁#フルーツジュース:|
+
+那个那个那个那个果汁分你一半#あの、あの、あの、あのジュース、半分ずつ:|
+可乐#コーラ:|
+蓝色那个在日用品区谢谢#青いのは日用品エリアにあります。ありがとうございます:|
+盐汽水#塩炭酸水:|
+我一口盐汽水！#一口飲みます！:|
+维他奶#ヴィタソイ:|
+点止汽水咁简单#ただの炭酸水じゃない:|
+雷碧#フェアリー:|
+透心扬，心飞凉#心が晴れ渡り、心が冷える:|
+ab钙奶#ADカルシウムミルク:|
+健康美味，经济实惠#健康的で美味しくて経済的:|
+速效救心丸#ニトログリセリン錠:|
+急急急，等下有得你急的。#急いで、すぐにあなたに急がしいことがあります:|
+阿司匹林#アスピリン:|
+发烧去医院经常见的药，从小到大都不懂为什么长得和螺丝头一样#熱が出たら病院に行くとよく見かける薬で、子供のころからなぜネジのような形をしているのか理解できなかった:|
+香煎牛仔骨#パンフライドショートリブ:|
+好感度#好感度:|
+开瓶红酒吧，上流#ワインを開ける、上流階級:|
+布洛芬缓释胶囊#イブプロフェン製剤:|
+在以前的大瘟疫时代，曾经作为货币使用，最高的时候价值连城#以前の大流行病時代には通貨として使用され、最高の価値を持っていました:|
+大力丸#ミスティノン:|
+等我硬起来有你好受的！#私が固くなるのを待って、あなたはいい気分になるでしょう！:|
+西冷牛排#サーロインステーキ:|
+开瓶拉菲吧，上流#ボトルを開けて、ラフィット、上流階級:|
+煎西冷牛排#パンフライドサーロインステーキ:|
+开瓶可乐吧，上流#コーラのボトルを開けて、上流階級:|
+脑黑金#脳ロジダ:|
+过年过节不收礼！__________！(3分)#お正月やお祭りでは贈り物は受け付けません！__________！(3ポイント):|
+红烧牛肉#紅焼き牛肉:|
+不是4块钱的，请放心#4元じゃないですよ、安心して:|
+辣子鸡#唐辛子チキン:|
+当红辣子鸡哟#人気のある唐辛子チキン:|
+酸菜鱼#酸辣湯魚:|
+人人皆是酸菜鱼#みんな酸辣湯魚だ:|
+
 健胃整肠丸#Wintex Tong Stomach-Ache Pills:|
-这是什么？肚子疼？来两粒。这是什么？拉肚子？来两粒#What is it? Stomach pain? Two pills. What is it? Diarrhea? Two pills:|
-烧鹅#Roast Goose:|
-官方特意调整成鹅的，这让我文案不好做啊，我就要在这里写上烧鸡两个大字！#Developer purposely adjusted it to 'roast goose', which makes it difficult for me to copy. I want to write big wording' roast chicken 'here!:|
-红烧狮子头#Stewed Pork Ball in Brown Sauce:|
-芋头西米露#Sweet Soup with Taros:|
-沙拉#salad:|
-沙拉沙拉啦啦啦#Saladsalad:|
-东坡肘子#Dongpo Pig Knuckle:|
-小知识：东坡肘子其实并非苏东坡之功，而是其妻子王弗的妙作#Trivia: Dongpo Pig Knuckle is not actually Su Dongpo's work, but his wife Wang Fu's hyped.:|
-罗宋汤#Borscht:|
-咲夜！“给我吃!”#Sakuya! "Eat it!":|
-披萨#Pizza:|
-不要放菠萝！！！#Don't put pineapple!!:|
-盐焗鸡#Salt Baked Chicken:|
-谁说的腌鸡！站出来！#Who said preserved chicken! Stand up!:|
-番茄意面#Tomato Pasta:|
-只要不是巧克力酱什么都好说。。#As long as it's not chocolate sauce, anything it's okay.:|
-梅菜扣肉#Preserved Vegetable:|
-不会咬人的谢谢#Won't bite thanks:|
-麻婆豆腐#Mapo Tofu:|
-麻婆豆腐之所以叫麻婆豆腐是因为麻婆喜欢吃#Mapo tofu is called Mapo tofu because Mapo likes to eat it:|
-666感冒灵颗粒#Zylenol:|
-老牌子，值得信任，有妈妈的味道。#Old-brand, trustworthy, with the smell of mother.:|
-芝士焗虾#Baked-prawn-with-cheese:|
-焗虾闭嘴#Baked Shrimp Shut up:|
-华夫饼#Baklava:|
-蜜饼！小刻最爱！#Baklava! Ceobe favorite!:|
-纸包鸡#Paper-wrapped chicken:|
-纸包鸡包纸包鸡包鸡包纸#Paper wrapped chicken wrapped paper wrapped chicken wrapped chicken wrapped paper:|
-南瓜吐司#Pumpkin Toast:|
-加了南瓜！是的！我加了南瓜！#Added pumpkin! Yes! I added pumpkin!:|
-酿豆腐#Stuffed Tofu:|
-你中有我，我中有你#There's me in you, there's you in me:|
-三明治#Sandwich:|
-两面包夹芝士#Two bread sandwiches with cheese:|
-鸡翅#Chicken Wings:|
-红烧翅膀~我喜欢吃~#Braised Wings in Brown Sauce~I like to eat them~:|
-面包#Bread:|
-你还记得你吃过多少块面包吗#Do you remember how many pieces of bread you ate?:|
-汉堡#Hamburg:|
-还想要汉O王？这价格不是华O士已经对你很好了。#This burger looks seriously different from the real thing, and is obviously bigger than the promotional image. It is said that this burger will increase in size by 4% every year, and in terms of time, it may expand to the day when the universe is destroyed.:|
-臭豆腐#Stinky Tofu:|
-闻起来臭，吃起来也臭，就是越吃越香。#Smells stinky, eat stinky, but more and more, taste fragrant.:|
-压缩饼干#Compressed Biscuit:|
-饼干.rar#Biscuits. rar:|
-钙片#Calcium Tablet:|
-郑重声明，本产品与同名影视产品没有一点关系。#Solemnly declare that this product has nothing to do with the film and television product of the same name.:|
+这是什么？肚子疼？来两粒。这是什么？拉肚子？来两粒#これは何ですか？腹痛ですか？2粒飲んでください。これは何ですか？下痢ですか？2粒飲んでください。:|
+烧鹅#ローストガチョウ:|
+官方特意调整成鹅的，这让我文案不好做啊，我就要在这里写上烧鸡两个大字！#開発者はわざわざガチョウに調整しましたが、これは私のコピーが難しくなります。ここに大きな文字「焼き鳥」を書きたいです！:|
+红烧狮子头#紅焼き肉団子:|
+芋头西米露#タロイモの甘味スープ:|
+沙拉#サラダ:|
+沙拉沙拉啦啦啦#サラダサラダ:|
+东坡肘子#東坡豚バラ:|
+小知识：东坡肘子其实并非苏东坡之功，而是其妻子王弗的妙作#トリビア：東坡肘子は実際には蘇東坡の作品ではなく、妻の王弗の見事な作品です。:|
+罗宋汤#ボルシチ:|
+咲夜！“给我吃!”#サクヤ！「食べさせて！」:|
+披萨#ピザ:|
+不要放菠萝！！！#パイナップルは入れないで！！！:|
+盐焗鸡#塩焼きチキン:|
+谁说的腌鸡！站出来！#腌めたチキンを言ったのは誰だ！出て来い！:|
+番茄意面#トマトパスタ:|
+只要不是巧克力酱什么都好说。。#チョコレートソースでなければ、何でもいいです。:|
+梅菜扣肉#梅菜煮込み肉:|
+不会咬人的谢谢#噛まないよ、ありがとう:|
+麻婆豆腐#麻婆豆腐:|
+麻婆豆腐之所以叫麻婆豆腐是因为麻婆喜欢吃#麻婆豆腐と呼ばれる理由は、麻婆が好きだからです。:|
+666感冒灵颗粒#666風邪薬:|
+老牌子，值得信任，有妈妈的味道。#古いブランド、信頼できる、母の味がする。:|
+芝士焗虾#チーズ焼きエビ:|
+焗虾闭嘴#焼きエビ、黙って:|
+华夫饼#ワッフル:|
+蜜饼！小刻最爱！#ワッフル！小刻のお気に入り！:|
+纸包鸡#紙包みチキン:|
+纸包鸡包纸包鸡包鸡包纸#紙包みチキン、紙包みチキン、紙包みチキン、紙包みチキン:|
+南瓜吐司#カボチャトースト:|
+加了南瓜！是的！我加了南瓜！#カボチャを加えました！はい！カボチャを加えました！:|
+酿豆腐#豆腐詰め:|
+你中有我，我中有你#あなたに私が、私にあなたが:|
+三明治#サンドイッチ:|
+两面包夹芝士#2枚のパンにチーズを挟んで:|
+鸡翅#チキンウィング:|
+红烧翅膀~我喜欢吃~#紅焼きの手羽先~好きです~:|
+面包#パン:|
+你还记得你吃过多少块面包吗#あなたはまだ何枚のパンを食べたことを覚えていますか:|
+汉堡#ハンバーガー:|
+还想要汉O王？这价格不是华O士已经对你很好了。#ハンOキングが欲しいですか？ この価格はもう華Oシをいい気分にしましたよ。:|
+臭豆腐#臭い豆腐:|
+闻起来臭，吃起来也臭，就是越吃越香。#臭いがするけど、食べても臭い、どんどん食べると香ります。:|
+压缩饼干#圧縮ビスケット:|
+饼干.rar#ビスケット.rar:|
+
+钙片#カルシウムタブレット:|
+郑重声明，本产品与同名影视产品没有一点关系。#本製品は、同名の映画およびテレビ製品とは一切関係がないことを厳粛に宣言する。:|
 土力架#Soickers:|
 横扫自己，做回饥饿#Soickers satisfies!:|
 炸鸡腿#Fried Chicken Leg:|
-你每吃一个炸鸡腿，就有0.5只鸡受到伤害。保护鸡鸡，从一次吃两个炸鸡腿做起！#For every fried chicken leg you eat, 0.5 chickens are injured. Protect chickens by starting with two fried chicken legs at once!:|
+你每吃一个炸鸡腿，就有0.5只鸡受到伤害。保护鸡鸡，从一次吃两个炸鸡腿做起！#フライドチキンの足1本食べるごとに、0.5羽の鶏が負傷する。フライドチキンレッグを一度に2本食べることから始めて、ニワトリを守りましょう！:|
 黄牛#Scalper:|
-放心，喝他的饮料不是他出钱你出命#Rest assured, drinking his drink is not his money for your life:|
-猪肉脯#Pork Jerky:|
-你感觉在吃牛皮。。#You feel like you're eating cowhide.:|
-能量饮料#Energy Drink:|
-能量饮料能够瞬间给予角色40点能量加成。使用时执行某些动作将会取消使用，有4秒使用时间。（以上都没有）#Energy drink can instantly give a character 40 points of energy bonus. Performing certain actions during use will cancel the use, with a usage time of 4 seconds. (The above is fabricated):|
-维生素C含片#Vitamin C lozenges:|
-本产品为保健品不能代替药品#This product is a health product and cannot replace medicines:|
-大鹏特饮#Dapeng Special Drink:|
-困了累了，大鹏特饮#Sleepy and tired, Dapeng drinks specially:|
-巧克力#Chocolate:|
-纵享丝滑#Enjoy a silky and smooth ride:|
-冰激凌#Ice Cream:|
-中国人免费领#Chinese people free of charge:|
-咖啡饮料#Coffee Beverage:|
-不小心倒在键盘上效果更好哦！#It's better to accidentally fall on the keyboard!:|
-核桃仁#Walnut Meat:|
-这次不用自己带锤子了#You don't need to bring your own hammer this time:|
-瓜子#Melon Seeds:|
-嘎吱嘎吱嘎吱嘎吱嘎吱嘎吱嘎吱嘎吱嘎吱嘎吱嘎吱嘎吱嘎吱嘎吱嘎吱嘎吱嘎吱嘎吱嘎吱嘎吱嘎吱嘎吱嘎吱嘎吱嘎吱嘎吱嘎吱#Creak Creak Creak Creak Creak Creak Creak Creak Creak Creak Creak Creak Creak Creak Creak Creak Creak Creak Creak Creak Creak Creak Creak Creak Creak Creak Creak Creak Creak Creak Creak Creak Creak Creak Creak Creak Creak Creak Creak Creak Creak Creak Creak Creak Creak Creak Creak Creak Creak Creak Creak Creak Creak Creak Creak Creak Creak Creak Creak Creak Creak Creak Creak Creak Creak:|
-火腿肠#Ham Sausage:|
-肉做的棒子#A stick made of meat:|
-爆米花#Popcorn:|
-电影必备，吃不完也要买#Movie essential, even if you can't finish eating them, you should buy them:|
-散射雪糕#Scattered Ice Cream:|
-三倍的快乐#Triple Happiness:|
-奶糖#Toffee:|
-小白兔牌#Little White Rabbit:|
-薯片#Potato Chips:|
-开趴必备#Party essential:|
-雪饼#Rice Crackers:|
-小时候的一口吃不下#I couldn't finish a single one as a child:|
-娃仔小馒头#Baby Mantou:|
-这是我们的宝贝~~#This is our treasure~~:|
-牛扎糖#Nougat:|
-好甜，像你一样#So sweet, the same will you:|
-泡泡糖#Bubble Gum:|
-就吹吧你#Just full of hot air.:|
-花生米#Peanut:|
-但凡有一粒花生米。。。#Whenever there is a peanut...:|
-老冰棍#Old Ice Lolly:|
-厂家正在考虑与辐射4联动中#Manufacturer is considering colab with Fallout 4:|
-小布丁#Milk Bottles:|
-没关系，小小的也很好吃#It's okay, the small one is also delicious:|
-软糖#Gummy:|
-come on baby~#come on baby~:|
-绿色心情#Good Mood:|
-几年前还是一块钱的呜呜呜#A few years ago, it just sell one buck:|
-奶片#Milk Tablets:|
-希望你们永远不会知道这个药。。。#Hope you never will know about this medicine...:|
-牛板筋#Beef Tendon:|
-只要来一根，大家都是好兄弟#Just for one skewer, all we are broski:|
-戒指糖#Sugar Ring:|
-这不比那个不能吃的破石头有用多了#That's more useful than that silly stone that cannot be eaten:|
-太阳系#Solar System:|
-没钱也能吃,可以用来拯救存档(生病), 没事别吃这个#Need no money to eat, it used to save game (sick). Don't eat this if you have nothing to do:|
-地球#Earth:|
-没钱也能吃,可以用来拯救存档(饥饿/口渴不足), 没事别吃这个#Need no money to eat, it used to save game (hunger/thirst). Don't eat this if you have nothing to do:|
-分钟#Min:|
+放心，喝他的饮料不是他出钱你出命#安心してください、彼の酒を飲むことは、あなたの人生に対する彼のお金ではありません。:|
+猪肉脯#ポークジャーキー:|
+你感觉在吃牛皮。。#牛革を食べているような気分になる。:|
+能量饮料#エナジードリンク:|
+能量饮料能够瞬间给予角色40点能量加成。使用时执行某些动作将会取消使用，有4秒使用时间。（以上都没有）#エナジードリンクは瞬時にキャラクターに40ポイントのエナジーボーナスを与えることができる。使用中に特定のアクションを行うと使用はキャンセルされ、使用時間は4秒である。(上記は捏造です):|
+维生素C含片#ビタミンCトローチ:|
+本产品为保健品不能代替药品#本製品は健康食品であり、医薬品に代わるものではありません。:|
+大鹏特饮#大鵬スペシャルドリンク:|
+困了累了，大鹏特饮#眠くて疲れていた大鵬は、特別に酒を飲む。:|
+巧克力#チョコレート:|
+纵享丝滑#シルキーでスムーズな走りを楽しむ:|
+冰激凌#アイスクリーム:|
+中国人免费领#中国人無料:|
+咖啡饮料#コーヒー飲料:|
+不小心倒在键盘上效果更好哦！#うっかりキーボードにかけるともっといい！:|
+核桃仁#クルミの核:|
+这次不用自己带锤子了#今回はハンマーを持参する必要はない。:|
+瓜子#メロンの種:|
+嘎吱嘎吱嘎吱嘎吱嘎吱嘎吱嘎吱嘎吱嘎吱嘎吱嘎吱嘎吱嘎吱嘎吱嘎吱嘎吱嘎吱嘎吱嘎吱嘎吱嘎吱嘎吱嘎吱嘎吱嘎吱嘎吱嘎吱#ギシギシギシギシギシギシギシギシギシギシギシギシギシギシギシギシギシギシギシギシギシギシギシギシギシギシギシギシギシギシギシギシギシギシギシギシギシギシギシギシギシギシギシギシギシギシギシギシギシギシギシギシギシギシギシギシギシギシギシギシギシギシギシギシギシ|
+火腿肠#ハムソーセージ:|
+肉做的棒子#肉でできた棒:|
+爆米花#ポップコーン:|
+电影必备，吃不完也要买#映画の必需品、食べ切れなくても買うべし:|
+散射雪糕#散らばったアイスクリーム:|
+三倍的快乐#トリプルハピネス:|
+奶糖#タフィー:|
+小白兔牌#小さな白いウサギ:|
+薯片#ポテトチップス:|
+开趴必备#パーティーには欠かせない:|
+雪饼#米菓:|
+小时候的一口吃不下#子供の頃1本も食べきれなかった:|
+娃仔小馒头#ベビーマントウ:|
+这是我们的宝贝~~#~~が私たちの宝物:|
+牛扎糖#ヌガー:|
+好甜，像你一样#あなたのように... とても優しい:|
+泡泡糖#バブルガム:|
+就吹吧你#熱い空気に満ちているだけだ。:|
+花生米#ピーナッツ:|
+但凡有一粒花生米。。。#ピーナッツがあるときはいつも...:|
+老冰棍#古いアイスクリーム:|
+厂家正在考虑与辐射4联动中#メーカーが「フォールアウト4」とのコラボを検討中:|
+小布丁#牛乳瓶:|
+没关系，小小的也很好吃#大丈夫、小さいのもおいしいよ:|
+软糖#グミ:|
+come on baby~#おいで~:|
+绿色心情#良いムード:|
+几年前还是一块钱的呜呜呜#数年前は1ドルしか売れなかった...:|
+奶片#ミルクタブレット:|
+希望你们永远不会知道这个药。。。#この薬の存在を知ることがないように...:|
+牛板筋#牛すじ肉:|
+只要来一根，大家都是好兄弟#1人さえいればみんないい兄弟だよ:|
+戒指糖#シュガーリング:|
+这不比那个不能吃的破石头有用多了#食べられない石より役に立つよ:|
+太阳系#太陽系:|
+没钱也能吃,可以用来拯救存档(生病), 没事别吃这个#お金がなくても食べられる、ゲームのセーブ(病気)に使える。用事がないなら食べないでください。:|
+地球#地球:|
+没钱也能吃,可以用来拯救存档(饥饿/口渴不足), 没事别吃这个#お金がなくても食べられる、ゲームのセーブ(空腹・渇き)に使う。用事がないなら食べないでください。:|
+分钟#最小:|
 钱#$:|
-{0:f1} 秒#{0:f1} Sec:|
+{0:f1} 秒#{0:f1} 秒:|
 SettingWidth#600:|
