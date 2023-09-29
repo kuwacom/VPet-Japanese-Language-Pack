@@ -1,22 +1,5 @@
 # Changelog
 
-### 2023.09.29(バージョン1.4.x)
-アップデート分の翻訳
-...(3ドット)を…(3点リーダ)に一部変更
-#### ファイルアップデート
-- Base2306.lps
-- Base2309.lps
-- Text2307.lps
-- Text2308.lps
-- Text2309.lps
-#### ファイル追加
-- TextClick_v2.lps
-- TextSelect_v2.lps
-- Limit.lps
-#### アップデート予定
-- TextClick_v2.lps
-- TextSelect_v2.lps
-
 ### 2023.09.24
 アップデート分を翻訳
 #### ファイルアップデート
