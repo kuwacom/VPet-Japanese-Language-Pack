@@ -1,7 +1,8 @@
 # What Is This
 VPet-Japanese-Language-Pack<br>
 名前にある通り[VPet](https://github.com/LorisYounger/VPet)の日本語翻訳パック<br>
-現在翻訳中でかなりがばがばです(翻訳機やらGPTに突っ込んだだけ 修正やらは相当かかりそう)<br>
+~~現在翻訳中でかなりがばがばです(翻訳機やらGPTに突っ込んだだけ 修正やらは相当かかりそう)~~<br>
+現在のプロジェクトはCATを活用して翻訳しています。<br>
 <br>
 VPetはこちら 👇<br>
 https://github.com/LorisYounger/VPet
