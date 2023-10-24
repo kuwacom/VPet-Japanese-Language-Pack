@@ -1,4 +1,18 @@
 # Changelog
+### 2023.10.22(1.4.1)
+ゲームバージョン1.9まで翻訳
+アップデート分の翻訳
+一部の翻訳を修正
+#### ファイルアップデート
+- TextClick_v2.lps
+- TextSelect_v2.lps
+- Text2309.lps
+- Base2306.lps
+- Base2310.lps
+- Drink_v2.lps
+#### ファイル追加
+- Base2310.lps
+- Drink_v2.lps
 
 ### 2023.09.29(バージョン1.4.x)
 アップデート分の翻訳
